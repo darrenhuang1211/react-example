@@ -5,9 +5,9 @@ import NewExpense from './components/NewExpense/NewExpense'
 
 const initialExpenses = [
   {id: 1, title: 'Video games', amount: 52.65, date: new Date(2022, 5, 15)},
-  {id: 2, title: 'Instant noodles', amount: 20.35, date: new Date(2022, 3, 25)},
-  {id: 3, title: 'Toilet paper', amount: 15.03, date: new Date(2022, 2, 20)},
-  {id: 4, title: 'Gifts', amount: 40, date: new Date(2022, 1, 6)}
+  {id: 2, title: 'Instant noodles', amount: 20.35, date: new Date(2021, 3, 25)},
+  {id: 3, title: 'Toilet paper', amount: 15.03, date: new Date(2020, 2, 20)},
+  {id: 4, title: 'Gifts', amount: 40, date: new Date(2020, 1, 6)}
 ];
 
 function App() {
